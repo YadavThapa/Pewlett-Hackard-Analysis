@@ -7,6 +7,7 @@ Bobby is expert at SQL and his manager wants to know the total number of retirin
 The main objective of this project to help Booby's manager to get the total number of retiring employees per title and identity of the employees. This will help them to make better and effective business strategy to hire the new employee as many current employees are reaching the retirement age.
 
 # Results
+![]https://github.com/YadavThapa/Pewlett-Hackard-Analysis/blob/master/retiring_titles.PNG
 From the above analysis, we came to conclusion that there are more than 90,398 employees are ready for retirement. Below is the research findings for our analyis.
 
 Most of Senior Engineers, Senior Staff, Engineers are ready for retirements.
@@ -19,3 +20,4 @@ Similarly, the 12,243 staffs, 4502 Technical leader, 1761 Assistant Engineers 2 
 
 
 # Summary
+From the above research analysis, we came to conclusion that Pewlett-Hackard should do lots of hiring planning since large number of work-force is ready for retirement and Management should have better strategy to hire both technical and non technical employees to run the business operation smoothly.
