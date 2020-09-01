@@ -18,9 +18,12 @@ Most of Senior Engineers, Senior Staff, Engineers are ready for retirements.
 5. There are 1761 Assistance Engineers and 2 Managers post needs to be fulfilled.
 6. From our retirement titles analysis we came to conclusion that there are many employees who changed their job with multiples titles and Pewlett Hackard should be more careful while doing mass hiring since they might need the more employees to fulfilled than retirement title report.
 
+![]https://github.com/YadavThapa/Pewlett-Hackard-Analysis/blob/master/mentorship%20Eligibility.PNG
+
 From the mentorship eligiblity reseach, we came to conclusion that less than 3% of total requirement could be fulfilled internally. But large number of workforce should be fulfilled from mass hiring which could cost more to Pewlett Hackard. We have found few alernative suggestion to Pewlett Hackard.
 
 7. Out of 3% employees who already meet the mentorship eligibilty may not ready for new job because they tend to pursue same career path instead of changing career at middle way. 
+
 8. Even if the employees who meet the mentorship eligibility can go for re-training or re-skill program, it would cost heavy to the company.
 
 
